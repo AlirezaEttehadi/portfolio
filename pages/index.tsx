@@ -7,8 +7,17 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Alireza Ettehadi</title>
         <link rel="icon" href="/alireza-main.jpg" />
+        <meta name="title" content="Alireza Ettehadi - Portfolio" />
+        <meta
+          name="description"
+          content="Welcome to my portfolio. Here you can find my latest projects and contact information."
+        />
+        <meta
+          name="keywords"
+          content="Alireza Ettehadi, Portfolio, Web Development"
+        />
       </Head>
 
       <Example />
