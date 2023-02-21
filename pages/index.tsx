@@ -25,7 +25,7 @@ const Home: NextPage = () => {
           content="Welcome to my portfolio. Here you can find my latest projects and contact information."
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://alirezaettehadi.vercel.com" />
+        <meta property="og:url" content="https://alirezaettehadi.com" />
         <meta property="og:image" content="/alireza-main.jpg" />
         <meta property="og:image:alt" content="Alireza Ettehadi - Portfolio" />
       </Head>
